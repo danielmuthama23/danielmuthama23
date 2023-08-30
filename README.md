@@ -3,6 +3,8 @@
 > Let's share new ideas:
 
 ### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> 
+### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> 
+### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> 
 
 <p align = ""
    <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="my pictures/git.png" />] [<a href="https://commits.top/kenya.html" target="_blank" rel="noreferrer">Ranking</a>] **#?** 🙌
