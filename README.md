@@ -140,7 +140,6 @@
 
 
 
-
 [gmail]: mailto:danielmuthama23@gmail.com
 [facebook]: https://www.facebook.com/dasomtechnologiesinc
 [discord]: https://discord.gg/jNTPtz
@@ -155,8 +154,7 @@
 <br />
 <br />
 
-[![Daniel Muthama's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danielmuthama)](https://github.com/danielmuthama/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danielmuthama23&theme=dracula)](https://github.com/danielmuthama23/github-readme-activity-graph)
 
       🔥'''𝐍𝐄𝐕𝐄𝐑 𝐒𝐀𝐘 𝐍𝐄𝐕𝐄𝐑'''🔥
 "# danielmuthama23" 
