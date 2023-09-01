@@ -65,10 +65,10 @@
 
 > My GitHub Stats:
 <p>
-  <details><summary>:zap: My Annual Contribution Stats</summary>
+  <details><summary>:zap: 𝓜𝔂 𝓐𝓷𝓷𝓾𝓪𝓵 𝓢𝓽𝓪𝓽𝓼 𝓒𝓸𝓷𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷 </summary>
       
-<img align="left" alt="My GitHub Stats" width="350px" src="https://github-readme-stats-kauer3.vercel.app/api?username=danielmuthama&count_private=true&hide_border=true&show_icons=true&hide_title=true&layout=compact&theme=radical" alt="Daniel's GitHub stats" />
- <img align="" alt="Muthama's Top used languages on Github" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&count_private=true&hide_border=true&hide_title=true&layout=compact&show_icons=true&theme=radical"/></details>
+<img align="left" alt="My GitHub Stats" width="350px" src="https://github-readme-stats-kauer3.vercel.app/api?username=danielmuthama23&count_private=true&hide_border=true&show_icons=true&hide_title=true&layout=compact&theme=radical" alt="Daniel's GitHub stats" />
+ <img align="" alt="Muthama's Top used languages on Github" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama23&count_private=true&hide_border=true&hide_title=true&layout=compact&show_icons=true&theme=radical"/></details>
  <details><summary>📈 𝓜𝔂 𝓞𝓿𝓮𝓻𝓪𝓵𝓵 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼</summary>
 <img width="300" src="https://metrics.lecoq.io/danielmuthama23" alt="Github Metrics">
  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama23" alt="Github Streak Stats"></details>
