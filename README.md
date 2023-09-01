@@ -54,7 +54,7 @@
    
 > Here is my progress:
 
-   **PROJECT IN QUEUE:** 2
+**𝓟𝓡𝓞𝓙𝓔𝓒𝓣 𝓘𝓝 𝓠𝓤𝓔𝓤𝓔:** 2
    
     - 🔭 I’m currently working on: A website
     - 🌱 I’m currently learning: R & Apache kafka
