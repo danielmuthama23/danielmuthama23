@@ -69,9 +69,9 @@
       
 <img align="left" alt="My GitHub Stats" width="350px" src="https://github-readme-stats-kauer3.vercel.app/api?username=danielmuthama&count_private=true&hide_border=true&show_icons=true&hide_title=true&layout=compact&theme=radical" alt="Daniel's GitHub stats" />
  <img align="" alt="Muthama's Top used languages on Github" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama&count_private=true&hide_border=true&hide_title=true&layout=compact&show_icons=true&theme=radical"/></details>
- <𝓭𝓮𝓽𝓪𝓲𝓵𝓼><𝓼𝓾𝓶𝓶𝓪𝓻𝔂>📈 𝓜𝔂 𝓞𝓿𝓮𝓻𝓪𝓵𝓵 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼</𝓼𝓾𝓶𝓶𝓪𝓻𝔂>
+ <details><summary>📈 𝓜𝔂 𝓞𝓿𝓮𝓻𝓪𝓵𝓵 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼</summary>
 <img width="300" src="https://metrics.lecoq.io/danielmuthama23" alt="Github Metrics">
- <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama" alt="Github Streak Stats"></details>
+ <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama23" alt="Github Streak Stats"></details>
  </p>
  
 > How to reach me:
