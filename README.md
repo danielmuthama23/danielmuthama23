@@ -11,7 +11,7 @@
     𝓡𝓮𝓪𝓬𝓱 𝓜𝓮
 
 <p align = ""
-   <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="my pictures/git.png" />] [<a href="https://commits.top/kenya.html" target="_blank" rel="noreferrer">Ranking</a>] **#?** 🙌
+   <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="my pictures/git.png" />] [<a href="https://commits.top/kenya" target="_blank" rel="noreferrer">Ranking</a>] **#?** 🙌
 </p>
 <p align = ""
    <h3 align=""> 🙌 My </h> [<img align="" alt="my_github" width="20px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />] [<a href="https://www.linkedin.com/in/daniel-muthama-577b211a5/" target="_blank" rel="noreferrer">Hire Me</a>] **💻** 🙌
