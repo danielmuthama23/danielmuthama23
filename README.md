@@ -24,8 +24,7 @@
     😃 𝐇𝐞𝐥𝐥𝐨 𝐁𝐮𝐝𝐝𝐢𝐞𝐬 👋🏻, 👉             <${𝐀𝐈}/>    🚶‍♂️               **𝐅𝐨𝐜𝐮𝐬 𝐚𝐧𝐝 𝐊𝐞𝐞𝐩 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠**
     
 <p>
-𝑀𝓎 𝒩𝒶𝓂𝑒 𝒾𝓈 𝒟𝒶𝓃𝒾𝑒𝓁 𝑀𝓊𝓉𝒽𝒶𝓂𝒶, 𝐼’𝓂 𝒶 𝐹𝓊𝓁𝓁 𝓉𝒾𝓂𝑒 𝐹𝓊𝓁𝓁 𝒮𝓉𝒶𝒸𝓀 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒶𝓃𝒹 𝐼 𝒽𝒶𝓋𝑒 𝒷𝑒𝑒𝓃 𝒾𝓃 𝐼𝒯 𝒫𝓇𝑜𝒻𝑒𝓈𝓈𝒾𝑜𝓃 𝒻𝑜𝓇 𝑜𝓋𝑒𝓇 𝟨+ 𝒴𝑒𝒶𝓇𝓈. 𝑀𝑜𝓈𝓉 𝑜𝒻 𝓂𝓎 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈 𝒶𝓇𝑒 𝒷𝓊𝒾𝓁𝓉 𝒾𝓃 𝒥𝒶𝓋𝒶𝒮𝒸𝓇𝒾𝓅𝓉, 𝐸𝓍𝓅𝓇𝑒𝓈𝓈, 𝑅𝑒𝒶𝒸𝓉, 𝑀𝒜𝒯𝐿𝒜𝐵, 𝒫𝟧.𝒿𝓈, 𝒫𝓎𝓉𝒽𝑜𝓃, 𝒩𝑜𝒹𝑒.𝒿𝓈 𝒶𝓃𝒹 𝒢𝓇𝒶𝓅𝒽𝒬𝐿. 𝐼 𝒶𝓂 𝒶𝓁𝓈𝑜 𝓁𝑜𝑜𝓀𝒾𝓃𝑔 𝒻𝑜𝓇 𝓅𝓇𝑜𝒻𝑒𝓈𝓈𝒾𝑜𝓃𝒶𝓁𝓈 𝓌𝒽𝑜𝓂 𝐼 𝒸𝒶𝓃 𝓁𝑒𝒶𝓇𝓃, 𝒹𝒾𝓈𝒸𝓊𝓈𝓈 𝒶𝓃𝒹 𝒸𝑜𝓁𝓁𝒶𝒷𝑜𝓇𝒶𝓉𝑒 𝓌𝒾𝓉𝒽 𝒾𝓃 𝓂𝓎 𝓊𝓅𝒸𝑜𝓂𝒾𝓃𝑔 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈.</p>
-
+Name is Daniel Muthama, I’m a Full time Full Stack Developer and I have been in IT Profession for over 6+ Years. Most of my projects are built in JavaScript, Express, React, MATLAB, P5.js, Python, Node.js and GraphQL. I am also looking for professionals whom I can learn, discuss and collaborate with in my upcoming projects.
 > My best languages
  
  <p align="center">
