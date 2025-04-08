@@ -2,11 +2,11 @@
                                                                    
 > Let's share new ideas:
 
-     𝓜𝔂 𝓖𝓲𝓽𝓗𝓾𝓫𝓼
+     My GitHubs
      
-### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> 𝟤𝟢𝟣𝟪 𝓉𝑜 𝟤𝟢𝟤𝟥
-### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/ProfLaura?label=Follow%20Me&style=flat-square)](https://github.com/ProfLaura) <img src="https://visitor-badge.laobi.icu/badge?page_id=ProfLaura-Read.md"> 𝟤𝟢𝟤𝟢 𝓉𝑜 𝒟𝒶𝓉𝑒
-### [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama23?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama23) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama23-Read.md"> 𝟤𝟢𝟤𝟥 𝓉𝑜 𝒟𝒶𝓉𝑒
+### 1. [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> 𝟤𝟢𝟣𝟪 𝓉𝑜 𝟤𝟢𝟤𝟥
+### 2. [![GitHub Daniel Muthama](https://img.shields.io/github/followers/ProfLaura?label=Follow%20Me&style=flat-square)](https://github.com/ProfLaura) <img src="https://visitor-badge.laobi.icu/badge?page_id=ProfLaura-Read.md"> 𝟤𝟢𝟤𝟢 𝓉𝑜 𝒟𝒶𝓉𝑒
+### 3 .[![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama23?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama23) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama23-Read.md"> 𝟤𝟢𝟤𝟥 𝓉𝑜 𝒟𝒶𝓉𝑒
 
     𝓡𝓮𝓪𝓬𝓱 𝓜𝓮
 
@@ -54,7 +54,7 @@ Name is Daniel Muthama, I’m a Full time Full Stack Developer and I have been i
    
 > Here is my progress:
 
-**𝓟𝓡𝓞𝓙𝓔𝓒𝓣 𝓘𝓝 𝓠𝓤𝓔𝓤𝓔:** 2
+**Project in Progress:** 2
    
     - 🔭 I’m currently working on: A website
     - 🌱 I’m currently learning: R & Apache kafka
@@ -65,11 +65,11 @@ Name is Daniel Muthama, I’m a Full time Full Stack Developer and I have been i
 
 > My GitHub Stats:
 <p>
-  <details><summary>:zap: 𝓜𝔂 𝓐𝓷𝓷𝓾𝓪𝓵 𝓢𝓽𝓪𝓽𝓼 𝓒𝓸𝓷𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷 </summary>
+  <details><summary>:zap: My Annual Stats Contribution </summary>
       
 <img align="left" alt="My GitHub Stats" width="350px" src="https://github-readme-stats-kauer3.vercel.app/api?username=danielmuthama23&count_private=true&hide_border=true&show_icons=true&hide_title=true&layout=compact&theme=radical" alt="Daniel's GitHub stats" />
  <img align="" alt="Muthama's Top used languages on Github" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama23&count_private=true&hide_border=true&hide_title=true&layout=compact&show_icons=true&theme=radical"/></details>
- <details><summary>📈 𝓜𝔂 𝓞𝓿𝓮𝓻𝓪𝓵𝓵 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼</summary>
+ <details><summary>📈 My Overall GitHub Stats</summary>
 <img width="300" src="https://metrics.lecoq.io/danielmuthama23" alt="Github Metrics">
  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama23" alt="Github Streak Stats"></details>
  </p>
