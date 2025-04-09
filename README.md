@@ -121,7 +121,7 @@ Name is Daniel Muthama, I’m a Full time Full Stack Developer and I have been i
 <img align="left" alt="Moongose" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="" alt="Neo4j" width="30px" src="[h[ttps://bloorresearch.com/wp-content/uploads/2012/12/neo4j.png](https://store-images.s-microsoft.com/image/apps.20118.81e2d4b5-97a7-4ee0-b4fd-512ecd8b426f.1f24ca00-9fa8-45a9-a79b-8bc4256b4f38.bc3b82b8-d0e2-4525-94e5-994fe88197e9)](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/datasciencedojo1586563145740.neo4j?tab=overview)" />
+<img align="" alt="Neo4j" width="30px" src="https://static-00.iconduck.com/assets.00/neo4j-icon-452x512-b63ajo4a.png" />
 <br />
 
 
