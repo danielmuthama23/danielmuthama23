@@ -131,12 +131,13 @@ Name is Daniel Muthama, I’m a Full time Full Stack Developer and I have been i
 <img align="left" alt="Network Development Group (NDG)-" width="40px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" />
 <img align="left" alt="Open EDG Python Institute" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC08Q-mFAyd5oO0VgXAuCmZcA6OnjAof6qKA&s" />
 <img align="" alt="Microsoft Azure" width="50px" src="https://logos-world.net/wp-content/uploads/2021/03/Microsoft-Azure-Logo.png" />
+<img align="left" alt="gc" width="44px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRywb6D3M3vuP4UHHpbvxqZkPBExNF7W5_g&s" />
+<br>
 <img align="left" alt="MORINGA" width="35px" src="https://pbs.twimg.com/profile_images/1489569110040141826/ZzZgytR8_400x400.png" />
 <img align="left" alt="ALX" width="30px" src="https://static6.tgstat.ru/channels/_0/92/926d46830ed20086ac4ea5b7d6af3552.jpg" />
 <img align="left" alt="UDACITY" width="34px" src="https://cdn-images-1.medium.com/max/1200/1*kS6zBDOS5kw0R-SschjLhg.png" />
 <img align="left" alt="AWS" width="44px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" />
-<img align="left" alt="AWS" width="44px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRywb6D3M3vuP4UHHpbvxqZkPBExNF7W5_g&s" />
-<img align="left" alt="AWS" width="44px" src="https://i0.wp.com/www.recruitmenthub.agency/wp-content/uploads/2024/02/ibm_cloud_hero_2-800x450-1.jpeg?fit=800%2C450&ssl=1" />
+<img align="left" alt="ibm" width="44px" src="https://i0.wp.com/www.recruitmenthub.agency/wp-content/uploads/2024/02/ibm_cloud_hero_2-800x450-1.jpeg?fit=800%2C450&ssl=1" />
 
 
 
