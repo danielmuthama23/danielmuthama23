@@ -5,8 +5,8 @@
      My GitHubs
      
 ### 1. [![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama-Read.md"> 𝟤𝟢𝟣𝟪 𝓉𝑜 𝟤𝟢𝟤𝟥
-### 2. [![GitHub Daniel Muthama](https://img.shields.io/github/followers/ProfLaura?label=Follow%20Me&style=flat-square)](https://github.com/ProfLaura) <img src="https://visitor-badge.laobi.icu/badge?page_id=ProfLaura-Read.md"> 𝟤𝟢𝟤𝟢 𝓉𝑜 𝒟𝒶𝓉𝑒
-### 3 .[![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama23?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama23) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama23-Read.md"> 𝟤𝟢𝟤𝟥 𝓉𝑜 𝒟𝒶𝓉𝑒
+### 2. [![GitHub Daniel Muthama](https://img.shields.io/github/followers/ProfLaura?label=Follow%20Me&style=flat-square)](https://github.com/ProfLaura) <img src="https://visitor-badge.laobi.icu/badge?page_id=ProfLaura-Read.md"> 𝟤𝟢𝟤𝟢 𝓉𝑜 DATE
+### 3 .[![GitHub Daniel Muthama](https://img.shields.io/github/followers/danielmuthama23?label=Follow%20Me&style=flat-square)](https://github.com/danielmuthama23) <img src="https://visitor-badge.laobi.icu/badge?page_id=danielmuthama23-Read.md"> 𝟤𝟢𝟤𝟥 𝓉𝑜 DATE
 
     Reach ME
 
@@ -69,10 +69,10 @@ Name is Daniel Muthama, I’m a Full time Full Stack Developer and I have been i
       
 <img align="left" alt="My GitHub Stats" width="350px" src="https://github-readme-stats-kauer3.vercel.app/api?username=danielmuthama23&count_private=true&hide_border=true&show_icons=true&hide_title=true&layout=compact&theme=radical" alt="Daniel's GitHub stats" />
  <img align="" alt="Muthama's Top used languages on Github" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama23&count_private=true&hide_border=true&hide_title=true&layout=compact&show_icons=true&theme=radical"/></details>
- #<details><summary>📈 My Overall GitHub Stats</summary>
-#<img width="300" src="https://metrics.lecoq.io/danielmuthama23" alt="Github Metrics">
-#<img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama23" alt="Github Streak Stats"></details>
-#</p>
+<details><summary>📈 My Overall GitHub Stats</summary>
+<img width="300" src="https://metrics.lecoq.io/danielmuthama23" alt="Github Metrics">
+<img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama23" alt="Github Streak Stats"></details>
+</p>
  
 > How to reach me:
 
@@ -157,4 +157,4 @@ Name is Daniel Muthama, I’m a Full time Full Stack Developer and I have been i
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danielmuthama23&theme=dracula)](https://github.com/danielmuthama23/github-readme-activity-graph)
 
       🔥'''𝐍𝐄𝐕𝐄𝐑 𝐒𝐀𝐘 𝐍𝐄𝐕𝐄𝐑'''🔥
-"# danielmuthama23" 
+"# danielmuthama23@gmail.com" 
