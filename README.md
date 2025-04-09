@@ -154,7 +154,7 @@ Name is Daniel Muthama, I’m a Full time Full Stack Developer and I have been i
 <br />
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danielmuthama23&theme=dracula)](https://github.com/danielmuthama23/github-readme-activity-graph)
+[![DANIEL's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danielmuthama23&theme=dracula)](https://github.com/danielmuthama23/github-readme-activity-graph)
 
       🔥'''𝐍𝐄𝐕𝐄𝐑 𝐒𝐀𝐘 𝐍𝐄𝐕𝐄𝐑'''🔥
 "# danielmuthama23@gmail.com" 
