@@ -1,4 +1,4 @@
-      😊''' **𝐇𝐀𝐏𝐏𝐘 𝐂𝐎𝐃𝐈𝐍𝐆** '''😊 EXTENDED +254746815371
+      😊''' 𝐇𝐀𝐏𝐏𝐘 𝐂𝐎𝐃𝐈𝐍𝐆 '''😊 EXTENDED +254746815371
                                                                    
 > Let's share new ideas:
 
@@ -69,10 +69,10 @@ Name is Daniel Muthama, I’m a Full time Full Stack Developer and I have been i
       
 <img align="left" alt="My GitHub Stats" width="350px" src="https://github-readme-stats-kauer3.vercel.app/api?username=danielmuthama23&count_private=true&hide_border=true&show_icons=true&hide_title=true&layout=compact&theme=radical" alt="Daniel's GitHub stats" />
  <img align="" alt="Muthama's Top used languages on Github" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmuthama23&count_private=true&hide_border=true&hide_title=true&layout=compact&show_icons=true&theme=radical"/></details>
- <details><summary>📈 My Overall GitHub Stats</summary>
-<img width="300" src="https://metrics.lecoq.io/danielmuthama23" alt="Github Metrics">
- <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama23" alt="Github Streak Stats"></details>
- </p>
+ #<details><summary>📈 My Overall GitHub Stats</summary>
+#<img width="300" src="https://metrics.lecoq.io/danielmuthama23" alt="Github Metrics">
+#<img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=danielmuthama23" alt="Github Streak Stats"></details>
+#</p>
  
 > How to reach me:
 
