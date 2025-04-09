@@ -129,7 +129,7 @@ Name is Daniel Muthama, I’m a Full time Full Stack Developer and I have been i
 
 <img align="left" alt="CISCO Networking Academy" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2L5Z634Md0fcxuBweoi1WNvbIwC1Pf4tZP4FJud2RrnjQFOz35eX3QA2TMR6dAm810g&usqp=CAU" />
 <img align="left" alt="Network Development Group (NDG)-" width="40px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" />
-<img align="left" alt="Open EDG Python Institute" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7gf1T-5Gu8bhQ4eHQVE0V1V5JRtSX9QZI6rn3JmeETpNeMhAk1ri9YA3qmGsrjlr1JtY&usqp=CAU" />
+<img align="left" alt="Open EDG Python Institute" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC08Q-mFAyd5oO0VgXAuCmZcA6OnjAof6qKA&s" />
 <img align="" alt="Microsoft Azure" width="50px" src="https://logos-world.net/wp-content/uploads/2021/03/Microsoft-Azure-Logo.png" />
 <img align="left" alt="MORINGA" width="35px" src="https://pbs.twimg.com/profile_images/1489569110040141826/ZzZgytR8_400x400.png" />
 <img align="left" alt="ALX" width="30px" src="https://static6.tgstat.ru/channels/_0/92/926d46830ed20086ac4ea5b7d6af3552.jpg" />
