@@ -97,7 +97,7 @@ Name is Daniel Muthama, I’m a Full time Full Stack Developer and I have been i
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Django" width="26px" src="https://www.liquidweb.com/wp-content/uploads/2024/03/do-web-development-using-python-django.png" />
-<img align="" alt="Express" width="26px" src="my pictures/download.png" />
+<img align="" alt="Express" width="28px" src="my pictures/download.png" />
 <img align="left" alt="Asp.net" width="26px" src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" />
 <img align="left" alt="flask" width="26px" src="my pictures/images.png" />
 <img align="left" alt="Python" width="26px" src="my pictures/download (1).png" />
