@@ -121,7 +121,7 @@ Name is Daniel Muthama, I’m a Full time Full Stack Developer and I have been i
 <img align="left" alt="Moongose" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="" alt="Neo4j" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" />
+<img align="" alt="Neo4j" width="30px" src="[[https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png](https://miro.medium.com/v2/resize:fit:1200/1*Kn44dKQQ2ldHSN_32X31GA.png)](https://miro.medium.com/v2/resize:fit:1200/1*Kn44dKQQ2ldHSN_32X31GA.png)" />
 <br />
 
 
