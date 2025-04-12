@@ -81,7 +81,7 @@ My Name is Daniel Muthama, I’m a Full time Full Stack Developer/ML Engineer an
 [<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012024/twitter-x.png" />][twitter]
 [<img align="left" alt="Daniel Muthama gmail" width="22px" src="https://craigball.net/wp-content/uploads/2014/10/gmail_google.jpg" />][gmail]
 [<img align="left" alt="Daniel Muthama discord" width="22px" src="https://cdn.prod.website-files.com/63ff7c6ecc83f9ec7ffe916b/6785da275daaa4ac5563f21a_discord-blogroll-1655488022938.jpeg" />][discord]
-[<img align="" alt="Daniel Muthama linkedin" width="22px" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/discord-logo.jpg" />][linkedin]</span>
+[<img align="" alt="Daniel Muthama linkedin" width="22px" src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" />][linkedin]</span>
 <br/>
 
 > Languages & Frameworks:
