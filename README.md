@@ -76,12 +76,12 @@ My Name is Daniel Muthama, I’m a Full time Full Stack Developer/ML Engineer an
  
 > How to reach me:
 
-[<img align="left" alt="Daniel Muthama Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
-[<img align="left" alt="Daniel Muthama youtube" width="22px" src="https://img.icons8.com/doodle/2x/youtube.png" />][youtube]
-[<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://img.icons8.com/cute-clipart/2x/twitter.png" />][twitter]
-[<img align="left" alt="Daniel Muthama gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]
-[<img align="left" alt="Daniel Muthama discord" width="22px" src="https://img.icons8.com/cute-clipart/2x/discord-logo.png" />][discord]
-[<img align="" alt="Daniel Muthama linkedin" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]</span>
+[<img align="left" alt="Daniel Muthama Site" width="22px" src="https://www.wavetransit.com/wp-content/uploads/2021/08/Facebook-logo.png" />][facebook]
+[<img align="left" alt="Daniel Muthama youtube" width="22px" src="https://360prconsultants.com/wp-content/uploads/2024/03/General-YouTube-Feature-1.jpg" />][youtube]
+[<img align="left" alt="Daniel Muthama twitter" width="22px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012024/twitter-x.png" />][twitter]
+[<img align="left" alt="Daniel Muthama gmail" width="22px" src="https://craigball.net/wp-content/uploads/2014/10/gmail_google.jpg" />][gmail]
+[<img align="left" alt="Daniel Muthama discord" width="22px" src="https://cdn.prod.website-files.com/63ff7c6ecc83f9ec7ffe916b/6785da275daaa4ac5563f21a_discord-blogroll-1655488022938.jpeg" />][discord]
+[<img align="" alt="Daniel Muthama linkedin" width="22px" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/discord-logo.jpg" />][linkedin]</span>
 <br/>
 
 > Languages & Frameworks:
