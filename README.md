@@ -121,18 +121,21 @@ My Name is Daniel Muthama, I’m a Full time Full Stack Developer/ML Engineer an
 <img align="left" alt="Moongose" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 <img align="left" alt="PostgreSQL" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Firebase" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="" alt="Neo4j" width="26px" src="https://www.google.com/search?q=neo4j+image&client=ms-android-transsion&hs=WNSV&sca_esv=a34ddc620dd62935&udm=2&biw=360&bih=664&sxsrf=APpeQnt0Nofa9j-wR6G3xiLG3Gtm9P7IOg%3A1782127292414&ei=vBo5asbwGPGei-gPt7Ck6Q8&oq=neo4j+image&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciC25lbzRqIGltYWdlMgUQABiABDIEEAAYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkiGJlDMC1iqHHAAeACQAQCYAeQCoAGWDqoBBTItNi4xuAEDyAEA-AEBmAIHoALkDsICBxAjGCcYyQLCAgoQABiABBhDGIoFwgIGEAAYBxgemAMAiAYBkgcFMi02LjGgB7EVsgcFMi02LjG4B-QOwgcHMi02LjAuMcgHTIAIAA&sclient=mobile-gws-wiz-img#sv=CAMSZBoyKhBlLWJ2NU9vdTBZVUptYzNNMg5idjVPb3UwWVVKbWMzTToOQV8ycktzXzVCQUJpTE0gBCokCg5qUTROdXQ1cldqNEY0TRIQZS1idjVPb3UwWVVKbWMzTRgAMAFKBAgBEAIYByDZpL65AUoIEAIYASACKAE" />
+<img align="" alt="Neo4j" width="26px" src="<img width="2560" height="1344" alt="17821432719582003502524253151998" src="https://github.com/user-attachments/assets/8a3535eb-25a4-40d6-a75e-117ff468c551" />
+" />
 <br />
 
 
 > Certified with:
 
-<img align="left" alt="CISCO Networking Academy" width="26px" src="https://www.google.com/search?client=ms-android-transsion&hs=z2m&sca_esv=a34ddc620dd62935&sxsrf=APpeQnt9KBIIYuF3ocl7mhJXyIKNszsklA:1782127724741&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE-Dsslc-KGKq55jF_BVsFlBx_GgM0fzV1XsSsLkzcasT53VpQu5zZsXy4zfu5vZJ4OPpS2ti9XON5kZ9UoRHsslbgS4QucQSFX0nd_pA6eiwuymUiWwVSbwGyHBmp0rMtsSeDIdrG3EEbCmTTD8i07K_FKPxuPRz3QHNLhH8H7kwQwKfwQ&q=cisco+netacad&sa=X&sqi=2&ved=2ahUKEwjM3OiP35qVAxXfTKQEHcS_AiQQtKgLegQIJxAB&biw=360&bih=664&dpr=2#sv=CAMSVxoyKhBlLWQ3UXM4NnFwMUxZa1dNMg5kN1FzODZxcDFMWWtXTToOeU5LelVmbUg5QTkzQ00gBCoXCgFzEhBlLWQ3UXM4NnFwMUxZa1dNGAEwAUoECAEQAhgHILGfhZQKSggQAhgBIAIoAQ" />
+<img align="left" alt="CISCO Networking Academy" width="26px" src="<img width="531" height="376" alt="17821435570527812564086316009876" src="https://github.com/user-attachments/assets/caf03384-8be6-4f51-b49c-d6c19b39ded5" />
+" />
 <img align="left" alt="Network Development Group (NDG)-" width="40px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" />
 <img align="left" alt="gc" width="44px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRywb6D3M3vuP4UHHpbvxqZkPBExNF7W5_g&s" />
 <img align="left" alt="Open EDG Python Institute" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC08Q-mFAyd5oO0VgXAuCmZcA6OnjAof6qKA&s" />
 <img align="" alt="Microsoft Azure" width="50px" src="https://logos-world.net/wp-content/uploads/2021/03/Microsoft-Azure-Logo.png" />
-<img align="left" alt="MORINGA" width="35px" src="https://www.google.com/search?client=ms-android-transsion&hs=Ji7p&sca_esv=a34ddc620dd62935&sxsrf=APpeQnvmCpI5mBMgZY0oncTbMIOTfsUmiQ:1782127816720&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cK-OlyrFp0q_lDSVqWSWpDEzO_-mUx3hdbQlSvWRAm3a3D3y0P_3kyEtVBac4Ukyhuw8w7LpgH4P8gabJmURZOPQ4a3gZGUodu7xwLfDZxZfAGRVNeHZa4rjqOzxW8vGjvSV0TkFaCxKU3opgvz93ZBmZmPf2FlC1JNr8eE-UUKshOmBQ&q=moringa+school&sa=X&sqi=2&ved=2ahUKEwjb1da735qVAxUHQKQEHRW3L-4QtKgLegQIExAB&biw=360&bih=664&dpr=2#sv=CAMSVxoyKhBlLS1XdkwwcWhZbkQwSDNNMg4tV3ZMMHFoWW5EMEgzTToOaGpQY3ZJajJCT2JYbk0gBCoXCgFzEhBlLS1XdkwwcWhZbkQwSDNNGAEwAUoECAEQAhgHIIzSuKIOSggQAhgBIAIoAQ" />
+<img align="left" alt="MORINGA" width="35px" src="<img width="554" height="554" alt="17821434312774826147392455750914" src="https://github.com/user-attachments/assets/1f915468-ce12-4d74-9c9c-47c3911db936" />
+" />
 <img align="left" alt="ALX" width="30px" src="https://static6.tgstat.ru/channels/_0/92/926d46830ed20086ac4ea5b7d6af3552.jpg" />
 <img align="left" alt="UDACITY" width="34px" src="https://cdn-images-1.medium.com/max/1200/1*kS6zBDOS5kw0R-SschjLhg.png" />
 <img align="left" alt="AWS" width="44px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" />
