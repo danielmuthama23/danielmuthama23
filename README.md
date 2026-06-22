@@ -121,22 +121,22 @@ My Name is Daniel Muthama, I’m a Full time Full Stack Developer/ML Engineer an
 <img align="left" alt="Moongose" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 <img align="left" alt="PostgreSQL" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Firebase" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="" alt="Neo4j" width="26px" src="../my pictures/neo4j.png" />
+<img align="" alt="Neo4j" width="26px" src="my pictures/neo4j.png" />
 <br />
 
 
 > Certified with:
 
-<img align="left" alt="CISCO Networking Academy" width="26px" src="../my pictures/cisco.png" />
+<img align="left" alt="CISCO Networking Academy" width="26px" src="my pictures/cisco.png" />
 <img align="left" alt="Network Development Group (NDG)-" width="40px" src="https://www.netdevgroup.com/static/img/ndg_logo.svg" />
 <img align="left" alt="gc" width="44px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRywb6D3M3vuP4UHHpbvxqZkPBExNF7W5_g&s" />
 <img align="left" alt="Open EDG Python Institute" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC08Q-mFAyd5oO0VgXAuCmZcA6OnjAof6qKA&s" />
 <img align="" alt="Microsoft Azure" width="50px" src="https://logos-world.net/wp-content/uploads/2021/03/Microsoft-Azure-Logo.png" />
-<img align="left" alt="MORINGA" width="35px" src="../my pictures/moringa.png" />
+<img align="left" alt="MORINGA" width="35px" src="my pictures/moringa.png" />
 <img align="left" alt="ALX" width="30px" src="https://static6.tgstat.ru/channels/_0/92/926d46830ed20086ac4ea5b7d6af3552.jpg" />
 <img align="left" alt="UDACITY" width="34px" src="https://cdn-images-1.medium.com/max/1200/1*kS6zBDOS5kw0R-SschjLhg.png" />
 <img align="left" alt="AWS" width="44px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" />
-<img align="left" alt="ibm" width="44px" src="../my pictures/ibm.png" />
+<img align="left" alt="ibm" width="44px" src="my pictures/ibm.png" />
 
 
 
