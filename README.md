@@ -1,4 +1,4 @@
-      😊''' 𝐇𝐀𝐏𝐏𝐘 𝐂𝐎𝐃𝐈𝐍𝐆 '''😊 EXTENDED +254746815371
+      😊''' 𝐇𝐀𝐏𝐏𝐘 𝐂𝐎𝐃𝐈𝐍𝐆 '''😊 EXTENDED +254724530874
                                                                    
 > Let's share new ideas:
 
@@ -24,7 +24,15 @@
     😃 𝐇𝐞𝐥𝐥𝐨 𝐁𝐮𝐝𝐝𝐢𝐞𝐬 👋🏻, 👉             <${𝐀𝐈}/>    🚶‍♂️               **𝐅𝐨𝐜𝐮𝐬 𝐚𝐧𝐝 𝐊𝐞𝐞𝐩 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠**
     
 <p>
-My Name is Daniel Muthama, I’m a Full time Full Stack Developer/ML Engineer and I have been in IT Profession for over 6+ Years. Most of my projects are built in JavaScript, Express, React, MATLAB, P5.js, Python, Node.js and GraphQL. I am also looking for professionals whom I can learn, discuss and collaborate with in my upcoming projects.
+Hi, I'm **Daniel Muthama** — a **Full-Stack Developer**, **Machine Learning Engineer**, and **AI Solutions Builder** passionate about creating intelligent, scalable, and impactful software.
+
+With **10+ years of experience** in the IT industry, I specialize in designing and developing end-to-end applications, AI-powered platforms, and cloud-native solutions. I'm the developer behind Winning innovative projects such as **SmartNexxie**, an AI-powered business intelligence platform, and **GenoHos**, a next-generation healthcare management system.
+
+My core technology stack includes **JavaScript**, **TypeScript**, **React**, **Node.js**, **Express.js**, **Python**, **Django**, **GraphQL**, **MATLAB**, **P5.js**, and modern AI/ML frameworks. I'm also exploring distributed systems, AI agents, Apache Kafka, and cloud technologies to build the next generation of intelligent applications.
+
+I enjoy contributing to open-source projects, participating in hackathons, and collaborating with developers, researchers, and innovators worldwide. I'm always open to learning, sharing ideas, and working on projects that leverage AI to solve real-world challenges.
+
+Let's connect, build, and create technology that makes a difference. 🚀
       
 > My best languages
  
@@ -54,13 +62,15 @@ My Name is Daniel Muthama, I’m a Full time Full Stack Developer/ML Engineer an
    
 > Here is my progress:
 
-**Project in Progress:** 2
+**Project in Progress:** 4
    
-    - 🔭 I’m currently working on: A website
-    - 🌱 I’m currently learning: R & Apache kafka
-    - 👯 I’m looking to collaborate In: Node.js(no depedencies)
-    - 🤔 I’m looking for help with: Python Django
-    - 💬 Ask me about: React and JavaScript
+   - I’m currently working on: **SmartNexxie** (AI-powered business intelligence platform) & **GenoHos** (next-generation healthcare management system)
+   - 🌱 I’m currently learning: **Apache Kafka, R, AI Agents, and Distributed Systems**
+   - 👯 I’m looking to collaborate on: **Open-source AI, Node.js, React, and Civic Tech projects**
+   - 🤝 I’m looking for help with: **Scaling Django applications, Kubernetes, and Cloud Infrastructure**
+   - 💬 Ask me about: **React, JavaScript, Node.js, AI Integrations, and Full-Stack Development**
+    - ⚡ Fun Fact: **I turn hackathon ideas into production-ready AI solutions—and I'm always building the next one. 🚀**
+
     - 😜 Fun Fact: I sleep with one eye Open
 
 > My GitHub Stats:
